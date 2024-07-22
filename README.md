@@ -1,9 +1,9 @@
 <h1 align="center">Where Code Meets Creativity: A Growth-Oriented Web Developer</h1>
-<p align="center">Helloo 👋</p>
+<p align="center">Helloo 👋👋👋</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=francmho&label=Profile%20views&color=0e75b6&style=flat" alt="francmho" /></p>
 
-<h3>An international business degree ignited my entrepreneurial spirit. A deep desire to blend my passion for arts, business, and creativity with technical skills led me to web design.</h3>
+<h3>An international business degree ignited my entrepreneurial spirit. A deep desire to blend my passion for arts, business, and creativity with technical skills led me to web development</h3>
 
 <h4>Front-End Technologies</h4>
 <ul>
@@ -30,7 +30,7 @@
   <li>📱 Social Media (the art of scrolling engagement)</li>
 </ul>
 
-<p>Beyond technical expertise, my diverse work experience strengthens my value as a web developer. From customer service roles at UPS and Avnet to co-founding a marketing agency ("The Socialdys"), I've honed my communication, collaboration, and sales skills. This allows me to understand user needs and translate them into impactful web experiences.</p>
+<h2>Beyond technical expertise, my diverse work experience strengthens my value as a web developer. From customer service roles at UPS and Avnet to co-founding a marketing agency ("The Socialdys"), I've honed my communication, collaboration, and sales skills. This allows me to understand user needs and translate them into impactful web experiences.</h2>
 
 <p>🔭 I’m currently working on <a href="https://github.com/4GeeksAcademy/latam-pt30-PROYECTO-FINAL-GYM-WEBAPP">GYM APP</a></p>
 
