@@ -30,7 +30,7 @@
   <li>📱 Social Media (the art of scrolling engagement)</li>
 </ul>
 
-<h2>Beyond technical expertise, my diverse work experience strengthens my value as a web developer. From customer service roles at UPS and Avnet to co-founding a marketing agency ("The Socialdys"), I've honed my communication, collaboration, and sales skills. This allows me to understand user needs and translate them into impactful web experiences.</h2>
+<h4>Beyond technical expertise, my diverse work experience strengthens my value as a web developer. From customer service roles at UPS and Avnet to co-founding a marketing agency ("The Socialdys"), I've honed my communication, collaboration, and sales skills. This allows me to understand user needs and translate them into impactful web experiences.</h4>
 
 <p>🔭 I’m currently working on <a href="https://github.com/4GeeksAcademy/latam-pt30-PROYECTO-FINAL-GYM-WEBAPP">GYM APP</a></p>
 
