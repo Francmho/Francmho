@@ -1,55 +1,30 @@
-# Where Creativity Meets Code: A Growth-Oriented Web Developer
+<h1 align="center">Helloo 👋, I'm Franco</h1>
+<h3 align="center">Where Code Meets Creativity: A Growth-Oriented Web Developer</h3>
 
-My journey to web development may not be traditional, but it perfectly encapsulates my passion for creation, collaboration, and continuous learning.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=francmho&label=Profile%20views&color=0e75b6&style=flat" alt="francmho" /> </p>
 
-An international business degree ignited my entrepreneurial spirit, while courses in residential design and modeling fueled my artistic side (and yes, even a modeling course!). However, a deep desire to blend creativity with technical skills led me to web design.
+- 🔭 I’m currently working on [GYM APP](https://github.com/4GeeksAcademy/latam-pt30-PROYECTO-FINAL-GYM-WEBAPP)
 
-This love for web design led me to pursue a Full-Stack Bootcamp in February 2024, equipping myself with the technical skills to bring my design visions to life. My skillset includes:
+- 🌱 I’m currently learning **Wire-framing.**
 
-### Front-End Technologies
-- 🌐 HTML
-- 🎨 CSS
-- 💻 Javascript
-- ⚛️ React
-- 🅱️ Bootstrap
+- 💬 Ask me about **HTML, Javascript and React.**
 
-### Back-End Technologies
-- 🐍 Python
-- 🗃️ SQL
-- 🧪 Flask
-- 🔗 RESTful APIs
-- 🔑 JWT
+- 📫 How to reach me **thesocialdys@gmail.com**
 
-### Design Skills
-- 🏷️ Branding
-- 📈 Marketing
-- 📱 Social Media
+- ⚡ Fun fact **I think hieroglyphics were the ancient Egyptians’ version of a user interface.**
 
-### Soft Skills
-- 💪 Determined
-- 🚀 Proactive
-- 👑 Natural Leader
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mfrancisco-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mfrancisco-morales" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lossocialdys?igsh=mxm2mxlxz2g3mjz0bw%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lossocialdys?igsh=mxm2mxlxz2g3mjz0bw%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/3tnq2vf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3tnq2vf2" height="30" width="40" /></a>
+</p>
 
-Beyond technical expertise, my diverse work experience strengthens my value as a web developer. From customer service roles at UPS and Avnet to co-founding a marketing agency ("The Socialdys"), I've honed my communication, collaboration, and sales skills. This allows me to understand user needs and translate them into impactful web experiences.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-My hunger for growth doesn't stop at web development. I'm actively exploring cybersecurity courses and hold certifications as a Google Partner and Community Manager. This continuous learning mindset ensures I stay up-to-date with the latest technologies and marketing strategies.
-
-## What I'm Looking For:
-- 🤝 An opportunity to join a collaborative team and contribute my creative and technical skills to building innovative web applications.
-- 🌱 A dynamic environment that fosters growth and learning.
-- 🌟 A chance to leverage my diverse background to create user-centric and impactful web experiences.
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francmho&show_icons=true&locale=en&layout=compact" alt="francmho" /></p>
 <!--
-**Francmho/Francmho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Where Code Meets Creativity: A Growth-Oriented Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
